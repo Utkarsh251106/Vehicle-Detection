@@ -19,3 +19,11 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 #### Run your Code.ipynb file
+
+### Step 4(Optional): To check the results:
+  To check the results for the model
+```bash
+# Start the Jupyter Notebook environment using the command
+jupyter notebook
+```
+#### Run your Results.ipynb file
